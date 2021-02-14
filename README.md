@@ -34,7 +34,7 @@ Trips By Gender
 
 
 # Summary
-Our service is actively used and focused in the center of the New York City with about 2344244 times in one month. The riding duration is relatively long, it is typically less than 1 hour and only about 2% of users have riding duration under 2 hours timeframe. Based on the analysis and findings, most customers seem to be repeated and regular users, this is being sayd by analyzing the peak bike hours, which are between 6:00AM to 9:00AM, and 4:00PM to 8:00PM. This patter can be also applied to Des Monies. However, due to the geographic difference and non-known user type, and potential user market size in Des Monies, it is recommended to selectively apply NYC Citi Bike data to the new business model for Des Monies project. 
+Our service is actively used and focused in the center of the New York City with about 234,4244 times in one month. The riding duration is relatively long, it is typically less than 1 hour and only about 2% of users have riding duration under 2 hours timeframe. Based on the analysis and findings, most customers seem to be repeated and regular users, this is being said by analyzing the peak bike hours, which are between 6:00AM to 9:00AM, and 4:00PM to 8:00PM. This pattern can be also applied to Des Monies. However, due to the geographic difference and non-known user type, and potential user market size in Des Monies, it is recommended to selectively apply NYC Citi Bike data to the new business model for Des Monies project. 
 
 In order to perform a more detailed and accurate future analysis, I would recommend to gather data on the following:
 
